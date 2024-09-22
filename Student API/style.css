@@ -1,0 +1,29 @@
+body
+{
+    background-color:rgb(204, 187, 238);
+}
+#form
+{
+    padding: 1%;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+#form input 
+{
+    border: none;
+    width: 90%;
+    border-radius: 2px;
+}
+.display
+{
+    padding: 2%;
+}
+#Save
+{
+    margin-left: 10%;
+    margin-top:-7%
+}
+.editbutton
+{
+    background-color: red;
+}
